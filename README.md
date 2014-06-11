@@ -1,2 +1,1 @@
-Nothing to say :p
-This are my assignments! :D
+programming exercise solutions of ML coursera
